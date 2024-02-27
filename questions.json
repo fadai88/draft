@@ -1,0 +1,18 @@
+{
+    "questions": [{
+            "question": "What is 2+2?",
+            "options": ["A. 0", "B. 2", "C. 4", "D. 8"],
+            "correct": "C"},
+        {
+            "question": "What is the second letter in the English alphabet?",
+            "options": ["A. C", "B. E", "C. A", "D. B"],
+            "correct": "D"
+        },
+        {
+            "question": "What is the chemical formula of water?",
+            "options": ["A. HO2", "B. H2O", "C. CO2", "D. C2O"],
+            "correct": "B"
+        }
+
+    ]
+}
